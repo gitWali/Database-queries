@@ -4,6 +4,7 @@ This is an assignment from school where we are supposed to make queries in a dat
 
 
 Nr.	SQL-Code
+
 A01	SELECT Name , Vorname, PLZ , ORT , STRASSE
 FROM Mitarbeiter
 ORDER BY PLZ;
